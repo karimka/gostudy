@@ -1,4 +1,4 @@
-package gostudy
+package sum
 
 func Add(a, b int) int {
 
