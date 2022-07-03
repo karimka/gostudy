@@ -1,3 +1,3 @@
-module github.com/karimka/gostudy
+module gostudy
 
 go 1.18
